@@ -11,9 +11,9 @@ Phone: for analog calling to any phone, including landlines and dumbphones
 Signal: for digital calling (so only to smartphones) + chatting + videocalling
 iMessage / (Android) Messages: for SMS/MMS
 iMail / Gmail or Email: for e-mail
-Life360: tracking the family
 
 Additional apps:
+Life360 or GeoZilla: tracking the family
 Maps.me: offline maps
 Google Earth
 TripAdvisor
@@ -22,7 +22,11 @@ Calendar
 Notes
 Weather
 CNN
-Reminders / Google Tasks
+Google Photos / Apple Photos
+Google Drive (iOS has iDrive)
+Google Translate
+instashare or SHAREit (for offline file sharing between 2 phones, over same WiFi network)
+Reminders / Google Tasks 
 Apple or Google Wallet
 Fing
 Contacts
@@ -34,5 +38,11 @@ Books
 Music
 TV
 Ada
-Google Drive (Ios has Idrive)
-Google Translate
+
+For settings:
+Most preppers will want to go cheap, so using prepaid rather than using subscription.
+This also has limitations however regarding data use.
+To avoid these problems, set settings --> global settings --> refresh in background --> wifi only (no mobile data)
+Mobile data can be set off, per program (in settings) and/or globally
+Location sharing is best set to "only when I use app" rather than having it share location all the time;
+can give some problems with some programs like Life360 however, same with refresh in background
