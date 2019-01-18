@@ -13,7 +13,7 @@ iMessage / (Android) Messages: for SMS/MMS
 iMail / Gmail or Email: for e-mail
 
 Additional apps:
-Life360 or GeoZilla: tracking the family
+Life360: tracking the family
 Maps.me: offline maps
 Google Earth
 TripAdvisor
@@ -22,12 +22,11 @@ Calendar
 Notes
 Weather
 CNN
-Google Photos / Apple Photos
-Google Drive (iOS has iDrive)
+Google Photos / Apple Photos (set online sharing off, store photos only on harddisk of phone; 
+this is just for occasional photos taken with phones and present just a for limited time,
+ie for transfer via email or chat) 
 Google Translate
-instashare or SHAREit (for offline file sharing between 2 phones, over same WiFi network)
-Reminders / Google Tasks 
-Apple or Google Wallet
+Reminders / Google Tasks
 Fing
 Contacts
 Star Chart
@@ -39,6 +38,9 @@ Music
 TV
 Ada
 
+Wifi maps programs are not included, because if you don't have wifi on your location, you shouldn't use wifi at all.
+Going to a particular location just because they have wifi there is foolishness.
+
 For settings:
 Most preppers will want to go cheap, so using prepaid rather than using subscription.
 This also has limitations however regarding data use.
@@ -46,3 +48,14 @@ To avoid these problems, set settings --> global settings --> refresh in backgro
 Mobile data can be set off, per program (in settings) and/or globally
 Location sharing is best set to "only when I use app" rather than having it share location all the time;
 can give some problems with some programs like Life360 however, same with refresh in background
+Most smartphones have built-in data use monitoring, so you can use this to make sure all these settings are correct (if not, mobile data use will be high so you can see this).
+
+It is best not to place any files on the smartphone at all so there should be nothing to share.
+If you do want to share photos, ... use a regular digital camera and share via an online service such as box.com, or Google Drive or iDrive (but sharing options with the latter to android/pc is limited).
+Keep it on/shared for a limited time, untill family members downloaded the files, then make it again unavailable by deleting or putting sharing off. 
+Another option is to put the files on an external harddisk and share only via the local network/wifi (so not online) at certain times (ie at family meetings), but is only useful if family members have mobile pc's and if they bring them.
+Sharing via bluetooth, such as via Apple's AirDrop (if everyone has an Apple device) or via services like instashare, SHAREit is not recommended and is not very useful.
+Photos that are not of the family members and don't need to be private can be shared via an online service such as Amazon Photos or Google Photos.
+
+Apple or Google Wallet, along with 3rd party banking apps are best not present/used.
+If you want to allow banking online, use a desktop computer (which has no risk of being stolen, and which always uses a secure/private internet access (phones may automatically use 3rd party wifi if available)
